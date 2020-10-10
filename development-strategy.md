@@ -53,16 +53,76 @@ __A User can see my [initial repository](https://github.com/LiubovPlugar/app-the
 - add flexboxgrid.css
 - add font-awesome.css
 
-## 2. ...
+## 2. About page
 
-...
+### Branches
 
-...
+- This user story developed on about branch
+- about.html
+- writing code
+- commit and push changes
+- create project board
+
+### HTML
+
+- header
+- subheader
+- main page
+- company
+- footer
+
+
+### CSS
+
+- styling elements
+
+## 3. Services page
+
+### Branches
+
+- This user story developed on services branch
+- services.html
+- writing code
+- commit and push changes
+- create project board
+
+### HTML
+
+- header
+- subheader
+- company
+- footer
+
+
+### CSS
+
+- styling elements
+
+## 4. Contact page
+
+### Branches
+
+- This user story developed on contact branch
+- services.html
+- writing code
+- commit and push changes
+- create project board
+
+### HTML
+
+- header
+- subheader
+- main page
+- company
+- footer
+
+
+### CSS
+
+- styling elements
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Write final, complete README
+  
 - Validate code to check for any last mistakes
